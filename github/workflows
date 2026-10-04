@@ -1,4 +1,4 @@
-name: github/grok-review.yml
+name: grok-review
 on: pull_request
 
 permissions:
